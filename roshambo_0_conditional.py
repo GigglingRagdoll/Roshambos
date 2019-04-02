@@ -1,3 +1,5 @@
+from random import randint
+
 pretty = {
     0 : 'rock',
     1 : 'scissors',
